@@ -1,0 +1,6 @@
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Reverse Words\CodeEval Reverse Words\bin\Debug\CodeEval Reverse Words.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Reverse Words\CodeEval Reverse Words\bin\Debug\CodeEval Reverse Words.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Reverse Words\CodeEval Reverse Words\bin\Debug\CodeEval Reverse Words.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Reverse Words\CodeEval Reverse Words\obj\Debug\CodeEval Reverse Words.csprojResolveAssemblyReference.cache
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Reverse Words\CodeEval Reverse Words\obj\Debug\CodeEval Reverse Words.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Reverse Words\CodeEval Reverse Words\obj\Debug\CodeEval Reverse Words.pdb

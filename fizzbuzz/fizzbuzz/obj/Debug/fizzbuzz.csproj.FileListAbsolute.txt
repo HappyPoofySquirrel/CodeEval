@@ -1,0 +1,6 @@
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.csprojResolveAssemblyReference.cache
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.pdb

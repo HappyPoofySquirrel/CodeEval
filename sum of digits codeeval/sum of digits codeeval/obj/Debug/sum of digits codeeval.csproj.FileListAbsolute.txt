@@ -1,0 +1,9 @@
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\sum of digits codeeval\sum of digits codeeval\bin\Debug\sum of digits codeeval.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\sum of digits codeeval\sum of digits codeeval\bin\Debug\sum of digits codeeval.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\sum of digits codeeval\sum of digits codeeval\bin\Debug\sum of digits codeeval.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\sum of digits codeeval\sum of digits codeeval\obj\Debug\sum of digits codeeval.csprojResolveAssemblyReference.cache
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\sum of digits codeeval\sum of digits codeeval\obj\Debug\sum of digits codeeval.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\sum of digits codeeval\sum of digits codeeval\obj\Debug\sum of digits codeeval.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\complete codeeval\sum of digits codeeval\sum of digits codeeval\bin\Debug\sum of digits codeeval.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\complete codeeval\sum of digits codeeval\sum of digits codeeval\obj\Debug\sum of digits codeeval.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\complete codeeval\sum of digits codeeval\sum of digits codeeval\obj\Debug\sum of digits codeeval.pdb

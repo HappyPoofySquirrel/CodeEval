@@ -1,0 +1,6 @@
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Valid Parentheses\CodeEval Valid Parentheses\bin\Debug\CodeEval Valid Parentheses.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Valid Parentheses\CodeEval Valid Parentheses\bin\Debug\CodeEval Valid Parentheses.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Valid Parentheses\CodeEval Valid Parentheses\bin\Debug\CodeEval Valid Parentheses.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Valid Parentheses\CodeEval Valid Parentheses\obj\Debug\CodeEval Valid Parentheses.csprojResolveAssemblyReference.cache
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Valid Parentheses\CodeEval Valid Parentheses\obj\Debug\CodeEval Valid Parentheses.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Valid Parentheses\CodeEval Valid Parentheses\obj\Debug\CodeEval Valid Parentheses.pdb

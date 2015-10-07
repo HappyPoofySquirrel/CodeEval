@@ -1,0 +1,6 @@
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\BitPosition CodeEval\BitPosition CodeEval\bin\Debug\BitPosition CodeEval.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\BitPosition CodeEval\BitPosition CodeEval\bin\Debug\BitPosition CodeEval.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\BitPosition CodeEval\BitPosition CodeEval\bin\Debug\BitPosition CodeEval.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\BitPosition CodeEval\BitPosition CodeEval\obj\Debug\BitPosition CodeEval.csprojResolveAssemblyReference.cache
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\BitPosition CodeEval\BitPosition CodeEval\obj\Debug\BitPosition CodeEval.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\BitPosition CodeEval\BitPosition CodeEval\obj\Debug\BitPosition CodeEval.pdb

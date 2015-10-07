@@ -1,0 +1,12 @@
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\Sumofint2CEvil\Sumofint2CEvil\bin\Debug\Sumofint2CEvil.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\Sumofint2CEvil\Sumofint2CEvil\bin\Debug\Sumofint2CEvil.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\Sumofint2CEvil\Sumofint2CEvil\bin\Debug\Sumofint2CEvil.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\Sumofint2CEvil\Sumofint2CEvil\obj\Debug\Sumofint2CEvil.csprojResolveAssemblyReference.cache
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\Sumofint2CEvil\Sumofint2CEvil\obj\Debug\Sumofint2CEvil.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\Sumofint2CEvil\Sumofint2CEvil\obj\Debug\Sumofint2CEvil.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\Sumofint2CEvil  Streamreader\Sumofint2CEvil\bin\Debug\Sumofint2CEvil.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\Sumofint2CEvil  Streamreader\Sumofint2CEvil\obj\Debug\Sumofint2CEvil.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\Sumofint2CEvil  Streamreader\Sumofint2CEvil\obj\Debug\Sumofint2CEvil.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\complete codeeval\Sumofint2CEvil  Streamreader\Sumofint2CEvil\bin\Debug\Sumofint2CEvil.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\complete codeeval\Sumofint2CEvil  Streamreader\Sumofint2CEvil\obj\Debug\Sumofint2CEvil.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\complete codeeval\Sumofint2CEvil  Streamreader\Sumofint2CEvil\obj\Debug\Sumofint2CEvil.pdb

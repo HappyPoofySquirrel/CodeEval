@@ -1,0 +1,6 @@
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEvilWord to digit\CodeEvilWord to digit\bin\Debug\CodeEvilWord to digit.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEvilWord to digit\CodeEvilWord to digit\bin\Debug\CodeEvilWord to digit.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEvilWord to digit\CodeEvilWord to digit\bin\Debug\CodeEvilWord to digit.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEvilWord to digit\CodeEvilWord to digit\obj\Debug\CodeEvilWord to digit.csprojResolveAssemblyReference.cache
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEvilWord to digit\CodeEvilWord to digit\obj\Debug\CodeEvilWord to digit.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEvilWord to digit\CodeEvilWord to digit\obj\Debug\CodeEvilWord to digit.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\delta tiem code eval\delta tiem code eval\bin\Debug\delta tiem code eval.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\delta tiem code eval\delta tiem code eval\bin\Debug\delta tiem code eval.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\delta tiem code eval\delta tiem code eval\bin\Debug\delta tiem code eval.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\delta tiem code eval\delta tiem code eval\obj\Debug\delta tiem code eval.csprojResolveAssemblyReference.cache
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\delta tiem code eval\delta tiem code eval\obj\Debug\delta tiem code eval.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\delta tiem code eval\delta tiem code eval\obj\Debug\delta tiem code eval.pdb

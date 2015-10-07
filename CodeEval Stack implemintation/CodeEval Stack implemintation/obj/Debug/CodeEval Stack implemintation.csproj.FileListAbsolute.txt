@@ -1,0 +1,6 @@
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Stack implemintation\CodeEval Stack implemintation\bin\Debug\CodeEval Stack implemintation.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Stack implemintation\CodeEval Stack implemintation\bin\Debug\CodeEval Stack implemintation.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Stack implemintation\CodeEval Stack implemintation\bin\Debug\CodeEval Stack implemintation.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Stack implemintation\CodeEval Stack implemintation\obj\Debug\CodeEval Stack implemintation.csprojResolveAssemblyReference.cache
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Stack implemintation\CodeEval Stack implemintation\obj\Debug\CodeEval Stack implemintation.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Stack implemintation\CodeEval Stack implemintation\obj\Debug\CodeEval Stack implemintation.pdb

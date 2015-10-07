@@ -1,0 +1,6 @@
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Postfix+Prefix\CodeEval Postfix+Prefix\bin\Debug\CodeEval Postfix+Prefix.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Postfix+Prefix\CodeEval Postfix+Prefix\bin\Debug\CodeEval Postfix+Prefix.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Postfix+Prefix\CodeEval Postfix+Prefix\bin\Debug\CodeEval Postfix+Prefix.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Postfix+Prefix\CodeEval Postfix+Prefix\obj\Debug\CodeEval Postfix+Prefix.csprojResolveAssemblyReference.cache
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Postfix+Prefix\CodeEval Postfix+Prefix\obj\Debug\CodeEval Postfix+Prefix.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\CodeEval Postfix+Prefix\CodeEval Postfix+Prefix\obj\Debug\CodeEval Postfix+Prefix.pdb
