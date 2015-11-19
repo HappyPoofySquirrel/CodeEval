@@ -4,3 +4,6 @@ C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\fizzbuzz\fizzbuz
 C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.pdb
 C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.exe
 C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\complete codeeval\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\complete codeeval\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\complete codeeval\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.pdb
